@@ -10,8 +10,6 @@
 
 ---
 
-
-
  <h3 align="center"> 💻Trabajo Práctico Final - Curso Full Stack Avanzado - UTN</h3>
 <h5 align="center">Task Notepad es una aplicación web que nos permite listar tareas, consultarlas, agregarlas, editarlas y eliminarlas.</h5>
 
@@ -29,21 +27,29 @@
 &nbsp;
 
 ---
+### ¿Qué programas necesitas tener instalados?
+Para que funcione ésta aplicación necesitas tener instalado Git, Visual Studio Code, NodeJS y MongoDB.-
+&nbsp;
+
+---
 ### Enviroment variables
-Para que funcione ésta aplicación necesitas añadir las siguientes variables de entorno:
+También puedes añadir las siguientes variables de entorno en el archivo .env:
 MONGODB_URI 
 PORT
+&nbsp;
+
+---
+### ¿Cómo funciona?
+Primero debes clonar este repositorio, y abrirlo en tu repositorio local con Visual Studio Code.-
+Ya en la carpeta especificada de Visual Studio Code, abres una terminal y ejecutas el comando de “mongod” que arranca el servidor de mongodb, y la dejas abierta que corra.-
+En una segunda terminal ejecutas los comandos primero “npm init -y”, luego “npm install”, y por ultimo ejecutas el comando “npm run dev”.- 
+Abres el navegador y escribes http://localhost:3000/ y listo, puedes empezar a usar la aplicación “Task Notepad”.-
 
 &nbsp;
 
 ---
-### El proyecto corre con "npm run dev" desde la consola. 
 
-
-&nbsp;
-
----
-<p>💪 Se han utilizado dependencias, frameworks y base de datos   aprendidos en éste curso, eligiendo NodeJS y Mongodb para ésta aplicación</p>
+<p>💪 Se han utilizado dependencias, frameworks y base de datos aprendidos en éste curso, eligiendo NodeJS y Mongodb para ésta aplicación</p>
 &nbsp;
 
 ---
@@ -51,7 +57,7 @@ PORT
 &nbsp;
 
 ``` 
-                                  📝 Contenido
+                                           📝 Contenido
 ```
    
 &nbsp;
@@ -86,38 +92,3 @@ PORT
 
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
