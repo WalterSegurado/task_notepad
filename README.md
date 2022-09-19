@@ -33,17 +33,17 @@ Para que funcione ésta aplicación necesitas tener instalado Git, Visual Studio
 
 ---
 ### Enviroment variables
-También puedes añadir las siguientes variables de entorno en el archivo .env:
-MONGODB_URI 
-PORT
+<p>También puedes añadir las siguientes variables de entorno en el archivo .env:</p>
+<p>MONGODB_URI</p>
+<p>PORT</p>
 &nbsp;
 
 ---
 ### ¿Cómo funciona?
-Primero debes clonar este repositorio, y abrirlo en tu repositorio local con Visual Studio Code.-
-Ya en la carpeta especificada de Visual Studio Code, abres una terminal y ejecutas el comando de “mongod” que arranca el servidor de mongodb, y la dejas abierta que corra.-
-En una segunda terminal ejecutas los comandos primero “npm init -y”, luego “npm install”, y por ultimo ejecutas el comando “npm run dev”.- 
-Abres el navegador y escribes http://localhost:3000/ y listo, puedes empezar a usar la aplicación “Task Notepad”.-
+<p>Primero debes clonar este repositorio, y abrirlo en tu repositorio local con Visual Studio Code.-</p>
+<p>Ya en la carpeta especificada de Visual Studio Code, abres una terminal y ejecutas el comando de “mongod” que arranca el servidor de mongodb, y la dejas abierta que corra.-</p>
+<p>En una segunda terminal ejecutas los comandos primero “npm init -y”, luego “npm install”, y por ultimo ejecutas el comando “npm run dev”.-</p>
+<p>Abres el navegador y escribes http://localhost:3000/ y listo, puedes empezar a usar la aplicación “Task Notepad”.-</p>
 
 &nbsp;
 
