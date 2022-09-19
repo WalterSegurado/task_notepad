@@ -20,11 +20,11 @@
 
 ---
 
-<p align="center">👩‍💻 Hecho  por la alumna:</p>
+<p align="center">👩‍💻 Hecho  por el alumno:</p>
 
 ```GitHub profil ↓```
 <ul>
-        <li><a href="https://github.com/monicapajon" target="_blank">Mónica Pajón</a></li>
+        <li><a href="https://github.com/waltersegurado" target="_blank">Walter Javier Segurado</a></li>
 </ul>
 &nbsp;
 
@@ -51,7 +51,7 @@ PORT
 &nbsp;
 
 ``` 
-                                              📝 Contenido
+                                  📝 Contenido
 ```
    
 &nbsp;
